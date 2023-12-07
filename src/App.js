@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+      <UserProfile name={`Allyson`} age={27} />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
